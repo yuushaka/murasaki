@@ -1,3 +1,8 @@
+---
+title: ""
+tags: ""
+---
+
 # MURASAKI
 MURASAKI は、Electron + Express + Node.js で開発している国産のタブブラウザです。
 まだ利用できる機能に制限がございますが日々不具合の修正・バージョンアップを行っております。
