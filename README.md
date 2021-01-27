@@ -2,7 +2,7 @@
 MURASAKI は、Electron + Express + Node.js で開発している国産のタブブラウザです。
 まだ利用できる機能に制限がございますが日々不具合の修正・バージョンアップを行っております。
 
-
+![ce2bc55c7352188426eef8ab2ce938ba6d87e516cb8e5b5f7b7f2eb956ee2c1a-画像_2021-01-27_094519](https://user-images.githubusercontent.com/3984656/105927138-bb592d80-6086-11eb-957d-413b3fb8d8bd.png)
 
 ---
 
